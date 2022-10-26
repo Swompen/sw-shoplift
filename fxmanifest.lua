@@ -1,3 +1,8 @@
+name "sw-shoplift"
+author "Swompen"
+version "v1.0.0"
+description "Simple shoplift script"
+
 fx_version 'cerulean'
 games { 'gta5' }
 
